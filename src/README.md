@@ -1,5 +1,6 @@
 # Sample Code
 
+
 The sample code serves as an example on how to interact with the MSRC Security Updates API through Powershell.  
 
 In the PowerShell module, you will see script functions that show how to interact with the API, as well 
